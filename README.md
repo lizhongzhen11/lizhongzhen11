@@ -1,13 +1,18 @@
 ### Hi there 👋
 
-**I'm lizhongzhen!**
+**I'm Li Zhongzhen.**
 
-- 🔭 I’m a front-end developer
-- 🌱 I have wrote <a href="https://github.com/lizhongzhen11/lizz-blog/issues/41">《重学js》</a>
-- 💬 You can email me by 295630519@qq.com
-- 📫 I didn't think of anything else for the time being...
-- This is my <a href="https://github.com/lizhongzhen11/lizhongzhen11/issues/1">resume</a>
+I am a lawyer in Jiangsu, China, with a background in front-end development.  
+Before entering legal practice, I worked as a developer and spent years learning JavaScript, web technologies, and software engineering. This technical background now helps me understand legal issues related to data, AI, platforms, and digital products from both legal and technical perspectives.
 
-> I'm still very weak and my code is not good enough, but i will keep moving.
+- ⚖️ Lawyer focusing on labor disputes, data compliance, AI-related legal issues, and legal technology
+- 💻 Former front-end developer
+- 🔍 Interested in the intersection of law, software, data, and artificial intelligence
+- 🌱 Author of [重学js](https://github.com/lizhongzhen11/lizz-blog/issues/41)
+- 📘 Author of [江苏省劳动纠纷实务入门](https://my.feishu.cn/wiki/GsMLwkJrIihpKVkhh22cPjKgn3d)
+- 💬 Email: 295630519@qq.com
+- 📫 Resume: [click here](https://github.com/lizhongzhen11/lizhongzhen11/issues/1)
 
-**Anyway, thankyou for visiting!**
+> I am still learning, still building, and still trying to connect law with technology in a practical way.
+
+**Thank you for visiting!**
