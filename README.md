@@ -10,6 +10,7 @@ Before entering legal practice, I worked as a developer and spent years learning
 - 🔍 Interested in the intersection of law, software, data, and artificial intelligence
 - 🌱 Author of [重学js](https://github.com/lizhongzhen11/lizz-blog/issues/41)
 - 📘 Author of [江苏省劳动纠纷实务入门](https://my.feishu.cn/wiki/GsMLwkJrIihpKVkhh22cPjKgn3d)
+- 📘 Author of [Legal — 中国法法律实务 AI Skill](https://github.com/lizhongzhen11/legal)
 - 💬 Email: 295630519@qq.com
 - 📫 Resume: [click here](https://github.com/lizhongzhen11/lizhongzhen11/issues/1)
 
